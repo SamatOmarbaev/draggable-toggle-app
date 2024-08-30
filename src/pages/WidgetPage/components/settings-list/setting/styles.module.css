@@ -1,0 +1,9 @@
+.setting {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #cecece;
+  padding: 0.5rem 1rem;
+  border-radius: .5rem;
+  background-color: #fff;
+}
